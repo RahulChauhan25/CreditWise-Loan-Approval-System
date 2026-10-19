@@ -184,5 +184,3 @@ These are potential applications rather than validated business outcomes. The mo
 
 ---
 
-*This project was developed as part of an AI/ML learning journey to explore data preprocessing, exploratory data analysis, feature engineering, and supervised machine learning classification.*
-
